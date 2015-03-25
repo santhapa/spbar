@@ -1,0 +1,19 @@
+#Cache files
+/app/bootstrap.php.cache
+/app/cache/*
+!app/cache/.gitkeep
+
+#Log files
+/app/logs/*
+!app/logs/.gitkeep
+
+/app/config/parameters.yml
+/app/phpunit.xml
+
+/bin/
+
+/composer.lock
+
+/vendor/
+
+/web/bundles/
